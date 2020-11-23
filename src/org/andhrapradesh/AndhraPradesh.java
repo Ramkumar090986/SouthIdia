@@ -8,5 +8,8 @@ public class AndhraPradesh extends Kerala {
 		
 
 	}
+public void tirupathi() {
+System.out.println("Tirupathi is located in Andhra");
 
+}
 }

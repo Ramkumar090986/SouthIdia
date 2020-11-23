@@ -5,7 +5,10 @@ public class TamilNadu {
 		System.out.println("Tamil Nadu :Tamil");
 
 	}
+    public void tamil() {
+		System.out.println("Tamil");
 
+	}
 	}
 
 

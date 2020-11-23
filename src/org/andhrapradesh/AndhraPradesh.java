@@ -8,5 +8,9 @@ public class AndhraPradesh extends Kerala {
 		
 
 	}
+	public void andhraLanguage() {
+		System.out.println("Andhra Language is telugu");
+
+	}
 
 }
